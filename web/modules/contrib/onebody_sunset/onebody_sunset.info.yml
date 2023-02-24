@@ -1,0 +1,10 @@
+name: Sunset Calculator
+type: module
+description: Gets your sunset time at your location
+package: custom
+core_version_requirement: ^9 || ^10
+
+# Information added by Drupal.org packaging script on 2022-12-19
+version: '1.0.1'
+project: 'onebody_sunset'
+datestamp: 1671484877
